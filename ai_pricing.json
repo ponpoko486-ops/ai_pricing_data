@@ -1,0 +1,40 @@
+{
+  "GPT-4o": { "input_per_million": 2.50, "output_per_million": 10.00 },
+  "GPT-4o mini": { "input_per_million": 0.60, "output_per_million": 2.40 },
+  "GPT-4 Turbo": { "input_per_million": 1.50, "output_per_million": 6.00 },
+  "GPT-3.5 Turbo": { "input_per_million": 0.50, "output_per_million": 1.50 },
+
+  "Claude 3.5 Sonnet": { "input_per_million": 3.00, "output_per_million": 15.00 },
+  "Claude 3.5 Haiku": { "input_per_million": 0.50, "output_per_million": 2.00 },
+  "Claude 3 Opus": { "input_per_million": 15.00, "output_per_million": 75.00 },
+
+  "Gemini 1.5 Pro": { "input_per_million": 2.00, "output_per_million": 6.00 },
+  "Gemini 1.5 Flash": { "input_per_million": 0.10, "output_per_million": 0.40 },
+  "Gemini 2.0 Pro": { "input_per_million": 3.00, "output_per_million": 9.00 },
+
+  "Llama 3.1 405B": { "input_per_million": 1.00, "output_per_million": 3.00 },
+  "Llama 3.1 70B": { "input_per_million": 0.60, "output_per_million": 1.80 },
+  "Llama 3.1 8B": { "input_per_million": 0.20, "output_per_million": 0.60 },
+
+  "Mistral Large": { "input_per_million": 2.00, "output_per_million": 6.00 },
+  "Mistral Small": { "input_per_million": 0.30, "output_per_million": 1.00 },
+
+  "DeepSeek V3": { "input_per_million": 0.27, "output_per_million": 1.10 },
+  "DeepSeek R1": { "input_per_million": 0.50, "output_per_million": 2.00 },
+
+  "Grok 3": { "input_per_million": 1.00, "output_per_million": 5.00 },
+
+  "Qwen 2.5 Max": { "input_per_million": 0.50, "output_per_million": 1.50 },
+  "Qwen 2.5 72B": { "input_per_million": 0.30, "output_per_million": 1.00 },
+
+  "Command R+": { "input_per_million": 1.00, "output_per_million": 3.00 },
+
+  "Nemotron 340B": { "input_per_million": 1.20, "output_per_million": 3.60 },
+
+  "Amazon Nova Pro": { "input_per_million": 1.00, "output_per_million": 3.00 },
+
+  "IBM Granite": { "input_per_million": 0.80, "output_per_million": 2.40 },
+
+  "StarCoder2": { "input_per_million": 0.20, "output_per_million": 0.60 },
+  "DBRX": { "input_per_million": 0.40, "output_per_million": 1.20 }
+}
